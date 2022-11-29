@@ -1,4 +1,4 @@
-  - example
+- name: example
   hosts: all
   tasks:
     - name: Print Hello
